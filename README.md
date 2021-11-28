@@ -1,1 +1,1 @@
-# Computer Graphics University Assignment CSV40
+# Computer Graphics University Assignment (UTFPR/S73/CSV40)
